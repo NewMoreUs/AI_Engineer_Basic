@@ -87,6 +87,12 @@ AUC (Area Under Curve)
 - 변수 간의 분포와 관계 (Covariation)
 
 
+*Summary*
+- EDA란 데이터를 이해하고 문제를 해결하는 과정에서 데이터를 통해 고민하는 모든 과정을 일컫음
+- 데이터 통찰력, 데이터 상상력
+
+
+
 
 # 데이터 전처리 (Data Preprocessing)
 - 머신러닝 모델에 데이터를 입력하기 위해 데이터를 처리하는 과정
